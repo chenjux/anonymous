@@ -16,7 +16,7 @@
 
 
 <p align="center">
-    <img src="abstention1.png" width="90%" style="align:center;"/>
+    <img src="abstention.png" width="90%" style="align:center;"/>
 </p>
 
 
